@@ -1,7 +1,7 @@
 # Jaiprakash
 
 _A passionate techie_ <br>
-<img src="https://user-images.githubusercontent.com/19921950/113431605-a2a82380-93f9-11eb-83cf-127d8f1cbe6c.jpg" width="640" height="480" />
+![](https://user-images.githubusercontent.com/19921950/113431605-a2a82380-93f9-11eb-83cf-127d8f1cbe6c.jpg)
 
  [LinkedIn](http://linkedin.techiejai.com) / [GitHub](http://github.techiejai.com) / [Twitter](http://twitter.techiejai.com) / [Strava](http://strava.techiejai.com) / [GoodReads](http://goodreads.techiejai.com/) / [Email](mailto:techiejaiprakash@gmail.com)
 
