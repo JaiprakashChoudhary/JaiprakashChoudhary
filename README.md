@@ -16,6 +16,14 @@ A _avid reader_, _long distance runner_ and a firm believer in _multi-disciplina
 
 People are not born great, passion and hard work make them.
 
+##My Projects
+**Tech**
+
+
+**Leadership**<br>
+Adoption of Agile methodology.
+
+
 
 ## My Articles
 **Tech**<br>
@@ -83,3 +91,16 @@ _Not a Penny More, Not a Penny Less_ by Jeffrey Archer<br>
 ## My Recommended Courses
 [_Professional development: Improve yourself, always_](https://www.coursera.org/learn/professional-development-improve-yourself/home/welcome)<br>
 [_Strategic Management_](https://www.coursera.org/learn/strategic-management/home/welcome)<br>
+
+##My Runs
+
+**Virtual**<br>
+_Half Marathon_ 
+Completed Times : 4
+Personal Best : 2:44:18
+
+_10k_
+Personal Best : 1:11:27
+
+
+_Last updated at_ 03-Apr-2021
