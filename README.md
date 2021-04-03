@@ -17,12 +17,12 @@ A _avid reader_, _long distance runner_ and a firm believer in _multi-disciplina
 
 People are not born great, passion and hard work make them.
 
-##My Projects
+<!-- ##My Projects
 **Tech**
 
 
 **Leadership**<br>
-Adoption of Agile methodology.
+Adoption of Agile methodology. -->
 
 
 
