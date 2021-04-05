@@ -28,21 +28,38 @@ Adoption of Agile methodology. -->
 
 ## My Articles
 **Tech**<br>
-[Log Structured Merge (LSM) Trees](https://medium.com/codex/understanding-log-structured-merge-lsm-trees-c4a0039f17a8)<br>
-[Mutual Exclusion](https://medium.com/swlh/mutual-exclusion-8ee27ea772c0)<br>
+[***Log Structured Merge (LSM) Trees***](https://medium.com/codex/understanding-log-structured-merge-lsm-trees-c4a0039f17a8)<br>
+[***Mutual Exclusion***](https://medium.com/swlh/mutual-exclusion-8ee27ea772c0)<br>
 [Hash Table in Distributed System](https://techiejai.medium.com/hash-tables-in-distributed-system-52dac98801ae)<br>
+[Solid : Design Principles - 3](https://techiejaiprakash.wordpress.com/2020/05/27/design-principles-3/amp/) <br>
+[Design Principles - 2](https://techiejaiprakash.wordpress.com/2020/04/30/design-principles-2/amp/)<br>
+[Design Principles - 1](https://techiejaiprakash.wordpress.com/2020/04/28/design-principles-1/)<br>
 
 **Leadership**<br>
 [Cricket And Leadership](https://techiejai.medium.com/cricket-and-leadership-e8d9c0d0026c)<br>
-[Management, Prisoners Dilemma and the Tragedy of commons](https://techiejai.medium.com/management-prisoners-dilemma-and-the-tragedy-of-the-commons-278b533094f6)<br>
+[***Management, Prisoners Dilemma and the Tragedy of commons***](https://techiejai.medium.com/management-prisoners-dilemma-and-the-tragedy-of-the-commons-278b533094f6)<br>
+[***Leaders and constructive critisicm***](https://www.linkedin.com/pulse/leaders-constructive-criticism-jaiprakash-choudhary/)<br>
+[Rivigo,Leadership Principles and Choices](https://www.linkedin.com/pulse/rivigo-leadership-principles-choices-jaiprakash-choudhary/)<br>
+[Leadership in Engineering](https://www.linkedin.com/pulse/leadership-engineering-jaiprakash-choudhary/) <br>
+
+**Process**<br>
+[Dream and Development Process](https://techiejaiprakash.wordpress.com/2020/06/25/dream-and-development-process/) <br>
 [Delivery and Estimation](https://techiejai.medium.com/delivery-and-estimation-eeb704677dfc)<br>
+[***Agile and Project Management***](https://www.linkedin.com/pulse/agile-project-management-jaiprakash-choudhary/) <br>
+
 
 **Psychology**<br>
-[Willpower vs Strategy: My story from couch potato to half marathon](https://techiejai.medium.com/willpower-vs-strategy-my-story-from-couch-potato-to-half-marathon-what-it-means-in-leadership-7d2d1a037398)<br>
+[***Willpower vs Strategy: My story from couch potato to half marathon***](https://techiejai.medium.com/willpower-vs-strategy-my-story-from-couch-potato-to-half-marathon-what-it-means-in-leadership-7d2d1a037398)<br>
 [Illusion and Interviews](https://techiejai.medium.com/illusions-and-interviews-84f9aaf38920)<br>
 
+**Rivigo**<br>
+[Glimpse of the problem being solved at Rivigo](https://www.linkedin.com/pulse/glimpse-problems-being-solved-rivigo-jaiprakash-choudhary/)<br>
+
 **Generic**<br>
-[Book recommendation from 2020](https://techiejai.medium.com/recommendation-books-read-in-2020-d19b78a0da88)<br>
+[***Book recommendation from 2020***](https://techiejai.medium.com/recommendation-books-read-in-2020-d19b78a0da88)<br>
+[Staying at home and bachelors](https://www.linkedin.com/pulse/staying-home-bachelors-jaiprakash-choudhary/) <br>
+[Observations of the Mind](https://www.linkedin.com/pulse/observations-mind-jaiprakash-choudhary/) <br>
+
 
 ## My Recommended Reads
 **Tech**<br>
