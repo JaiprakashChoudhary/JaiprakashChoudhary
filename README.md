@@ -56,7 +56,7 @@ Adoption of Agile methodology. -->
 [Glimpse of the problem being solved at Rivigo](https://www.linkedin.com/pulse/glimpse-problems-being-solved-rivigo-jaiprakash-choudhary/)<br>
 
 **Generic**<br>
-[***Book recommendation from 2020***](https://techiejai.medium.com/recommendation-books-read-in-2020-d19b78a0da88)<br>
+[Book recommendation from 2020](https://techiejai.medium.com/recommendation-books-read-in-2020-d19b78a0da88)<br>
 [Staying at home and bachelors](https://www.linkedin.com/pulse/staying-home-bachelors-jaiprakash-choudhary/) <br>
 [Observations of the Mind](https://www.linkedin.com/pulse/observations-mind-jaiprakash-choudhary/) <br>
 
