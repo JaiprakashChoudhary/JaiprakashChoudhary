@@ -97,7 +97,7 @@ _The Selfish Gene_ by Richard Dawkins<br>
 _Algorithms to Live By_ by Brain Christian<br>
 
 **Running**<br>
-_Endure: Mind, Body and the Curiously Elastic Limits of Human Performance<br>
+_Endure: Mind, Body and the Curiously Elastic Limits of Human Performance_ by Alex Hutchinson<br>
 
 **Generic Non Fiction**<br>
 _Poor Charlie's Almanac_ by Charles T. Munger<br>
