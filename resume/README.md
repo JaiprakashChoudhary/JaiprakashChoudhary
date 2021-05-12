@@ -1,6 +1,16 @@
 # Jaiprakash
 
-## EXPERIENCE
+## About
+Passionate to design and develop complex systems that impact people's life. Have designed scalable systems from scratch and have upgraded, managed and extended existing systems. Lead teams to create solutions that have with-held test of time. A avid reader, long distance runner and a firm believer in multi-disciplinary learning.
+
+## Philosophy
+People are not born great, passion and hard work make them
+Always go for the Mimimum Viable Product
+Have processes that work for your team
+Elegant is simple, find elegant solutions
+Every problem has a solution
+
+## Experience
 ### Rivigo — Dec 2016 - Present
 #### Head of Engineering Aug,20-Present
 * Leading the technology vertical with a team of _70+ engineers_
