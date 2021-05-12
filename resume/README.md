@@ -91,6 +91,8 @@
 * Technologies - MongoDB, Cassandra, Postgres, Oracle, Mysql, Kafka, Redis, Aerospike, Hadoop, Apache Camel, JMS, Spark
 * Build Tools - Maven, Gradle
 * Frameworks - Spring, JPA, Hibernate
+* System Design
+* Architecture Design
 
 #### Management & Leadership
 * Leading & mentoring
@@ -100,6 +102,7 @@
 * Hiring
 * Monitoring
 * Problem solving
+* Process design
 
 ## Education
 ### Indian Institute of Technology,Delhi
