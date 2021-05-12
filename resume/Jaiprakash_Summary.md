@@ -85,20 +85,12 @@
 * Developed mail room automation to classify, separate, sort and extract information from documents
 * Used JBPM for controlling business process and maintaining work history.
 
-
-## Education
-### Indian Institute of Technology,Delhi
-#### Bachelor of Technology in Computer Science & Engineering,2006-2010
-* Secured AIR-85 in IIT-JEE 2006
-* Received Aditya Birla Scholarship, awarded to 11 students over India.
-
-
 ## Skills
 #### Technology
 ###### Languages -  Java (proficient), Python (Competent), Linux Shell scripts (Competent), Scala (Novice), Go (Novice), JS (Novice), Android (Novice)
 ###### Technologies - MongoDB, Cassandra, Postgres, Oracle, Mysql, Kafka, Redis, Aerospike, Hadoop, Apache Camel, JMS, Spark
 ###### Build Tools - Maven, Gradle
-###### Frameworks - Spring, JPA, Hibernate<br>
+###### Frameworks - Spring, JPA, Hibernate
 
 #### Management & Leadership
 * Leading & mentoring
@@ -108,3 +100,9 @@
 * Hiring
 * Monitoring
 * Problem solving
+
+## Education
+### Indian Institute of Technology,Delhi
+#### Bachelor of Technology in Computer Science & Engineering,2006-2010
+* Secured AIR-85 in IIT-JEE 2006
+* Received Aditya Birla Scholarship, awarded to 11 students over India.
