@@ -1,14 +1,14 @@
 # Jaiprakash
 
 ## About
-Passionate to design and develop complex systems that impact people's life. Have designed scalable systems from scratch and have upgraded, managed and extended existing systems. Lead teams to create solutions that have with-held test of time. A avid reader, long distance runner and a firm believer in multi-disciplinary learning.
+Passionate to design and develop complex systems that _impact people's life._ Have _designed scalable systems_ from scratch and have _upgraded, managed and extended existing systems_. Lead teams to create solutions that have with-held test of time. A avid reader, long distance runner and a firm believer in _multi-disciplinary learning._
 
 ## Philosophy
-People are not born great, passion and hard work make them
-Always go for the Mimimum Viable Product
-Have processes that work for your team
-Elegant is simple, find elegant solutions
-Every problem has a solution
+* People are not born great, passion and hard work make them
+* Always go for the Mimimum Viable Product
+* Have processes that work for your team
+* Elegant is simple, find elegant solutions
+* Every problem has a solution
 
 ## Experience
 ### Rivigo — Dec 2016 - Present
