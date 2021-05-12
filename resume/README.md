@@ -3,7 +3,7 @@
 ## EXPERIENCE
 ### Rivigo — Dec 2016 - Present
 #### Head of Engineering Aug,20-Present
-* Leading the technology vertical with a team of _63 engineers_
+* Leading the technology vertical with a team of _70+ engineers_
 * Leading engineering, product, IT and support for all Rivigo products	
 * Innovated and designed reporting infrastructure with a _data lake_ for scheduled and on demand reports with _10 reports_ onboarded 
 * Reduced infrastructure cost by _80%_ through multiple initiatives
