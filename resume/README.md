@@ -87,10 +87,10 @@
 
 ## Skills
 #### Technology
-##### Languages -  Java (proficient), Python (Competent), Linux Shell scripts (Competent), Scala (Novice), Go (Novice), JS (Novice), Android (Novice)
-##### Technologies - MongoDB, Cassandra, Postgres, Oracle, Mysql, Kafka, Redis, Aerospike, Hadoop, Apache Camel, JMS, Spark
-##### Build Tools - Maven, Gradle
-##### Frameworks - Spring, JPA, Hibernate
+* Languages -  Java (proficient), Python (Competent), Linux Shell scripts (Competent), Scala (Novice), Go (Novice), JS (Novice), Android (Novice)
+* Technologies - MongoDB, Cassandra, Postgres, Oracle, Mysql, Kafka, Redis, Aerospike, Hadoop, Apache Camel, JMS, Spark
+* Build Tools - Maven, Gradle
+* Frameworks - Spring, JPA, Hibernate
 
 #### Management & Leadership
 * Leading & mentoring
