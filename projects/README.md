@@ -76,3 +76,6 @@
 * Introduced Chai Pe Charcha to keep social connect intact
 * Introduced Awards to keep the spirit going
 * Started publishing of timelines met vs timelines missed
+
+---
+_Last updated at_ 13-May-2021

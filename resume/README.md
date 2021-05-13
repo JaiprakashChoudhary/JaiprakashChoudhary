@@ -119,3 +119,6 @@ Passionate to design and develop complex systems that _impact people's life._ Ha
 #### Bachelor of Technology in Computer Science & Engineering,2006-2010
 * Secured AIR-85 in IIT-JEE 2006
 * Received Aditya Birla Scholarship, awarded to 11 students over India.
+
+---
+_Last updated at_ 13-May-2021
