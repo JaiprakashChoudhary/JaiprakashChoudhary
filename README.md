@@ -103,6 +103,8 @@ _Endure: Mind, Body and the Curiously Elastic Limits of Human Performance_ by Al
 **Generic Non Fiction**<br>
 _Poor Charlie's Almanac_ by Charles T. Munger<br>
 _India's Most Fearless_ by Shiv Aroor<br>
+
+**Philosophy**<br>
 _Complete work of Swami Vivekananda_ by Swami Vivekananda<br>
 
 **Fiction**<br>
