@@ -38,7 +38,11 @@
 
 ### Collections support
 * Created multiple books with checks and balances
-* Added multiple triggers to remove inconsistencies.
+* API whitelisting for managed changes
+* Database level rules and triggers for data consistency
+* Idempotent POST API for safe retries
+* Consistency over availability in monetary transactions
+* Event driven architecture for defined level of availability and eventual consistency across systems 
 
 ### Data import
 * The data to store was initially being stored in a nxn matrix
