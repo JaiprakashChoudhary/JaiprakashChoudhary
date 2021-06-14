@@ -44,7 +44,7 @@
 * Consistency over availability in monetary transactions
 * Event driven architecture for defined level of availability and eventual consistency across systems 
 
-### Data import
+### Data compression
 * The data to store was initially being stored in a nxn matrix
 * The data was duplicated
 * Moved the logic to the application layer from the database layer
@@ -72,6 +72,7 @@
 ### Hiring
 * Introduced hiring of junior developers through internship
 * Developed test that reduced rejection rate by 57%
+* Developed framework to improve conversion ratio
 
 ### Work from home
 * Improved process to adapt to continuous work from home
@@ -81,5 +82,12 @@
 * Introduced Awards to keep the spirit going
 * Started publishing of timelines met vs timelines missed
 
+## IT Manamgement
+* Created structure for asset management
+* Reduced internet costs by 70%
+
+** Performance Management
+* Designed Goals for divisions in technology
+* Created structure to monitor and improve performance monthly
 ---
-_Last updated at_ 13-May-2021
+_Last updated at_ 14-June-2021

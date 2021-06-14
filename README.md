@@ -65,7 +65,7 @@ Adoption of Agile methodology. -->
 **Tech**<br>
 _Code Complete_ by Steve McConnell<br>
 _Head First Design Patterns_ by Eric Freeman<br>
-_Distributed Systems: Principles and Para: Principles and Paradigms_ by Tanenbum & Van Steen<br>
+_Distributed Systems: Principles and Paradigms_ by Tanenbum & Van Steen<br>
 
 **Leadership**<br>
 _Leaders Eat Last_ by Simon Sinek<br>
