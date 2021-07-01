@@ -20,11 +20,13 @@ Passionate to design and develop complex systems that _impact people's life._ Ha
 * Reduced technology cost by _71%_ by migrating to opensource and removing unused costs
 * Reduced internet costs by _40%_ through analysis of bandwith
 * Designed the _hiring pipeline_ to reducing interview needs by _57%_ using _online assessment_
+* Improved _joining conversion_ through process improvement and discussion with candidates
 * Improved motivation through _servant leadership_
 * Improved _code documentation_ to acheive 7% of code coverage
 * Standardized _Agile practises_ across the teams
 * Introduced culture of _internship_ resulting in 15 fresh graduates
 * Introduced _Tech Awards_ to celebrate quality code
+* Introduced measurable KPI / KRA for the team
 
 #### Director of Engineering Aug,19-Aug,20
 * Improved efficiency of _work from home_ through agile practises 
