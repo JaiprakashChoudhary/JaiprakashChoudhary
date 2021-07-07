@@ -59,7 +59,7 @@ Adoption of Agile methodology. -->
 [Book recommendation from 2020](https://techiejai.medium.com/recommendation-books-read-in-2020-d19b78a0da88)<br>
 [Staying at home and bachelors](https://www.linkedin.com/pulse/staying-home-bachelors-jaiprakash-choudhary/) <br>
 [Observations of the Mind](https://www.linkedin.com/pulse/observations-mind-jaiprakash-choudhary/) <br>
-
+[Future of remote work](https://techiejai.medium.com/future-of-remote-work-710d5f27d1ff) <br>
 
 ## My Recommended Reads
 **Tech**<br>
@@ -127,4 +127,4 @@ _10k_ <br>
 Personal Best : 1:11:27 <br>
 
 ---
-_Last updated at_ 13-May-2021
+_Last updated at_ 7-July-2021

@@ -123,4 +123,4 @@ Passionate to design and develop complex systems that _impact people's life._ Ha
 * Received Aditya Birla Scholarship, awarded to 11 students over India.
 
 ---
-_Last updated at_ 13-May-2021
+_Last updated at_ 1-July-2021
