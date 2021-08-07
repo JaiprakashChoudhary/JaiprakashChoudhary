@@ -27,6 +27,8 @@ Passionate to design and develop complex systems that _impact people's life._ Ha
 * Introduced culture of _internship_ resulting in 15 fresh graduates
 * Introduced _Tech Awards_ to celebrate quality code
 * Introduced measurable KPI / KRA for the team
+* Designed the process of development cycle from _initiation to delivery_
+
 
 #### Director of Engineering Aug,19-Aug,20
 * Improved efficiency of _work from home_ through agile practises 
@@ -44,6 +46,8 @@ Passionate to design and develop complex systems that _impact people's life._ Ha
 * Created a culture of _blameless RCA_ to improve quality
 * Created a culture of timely releases with acheiving _85%_ of on time release
 * Re-architected to reduce _data import time by 97%_
+* Defined culture of delivery with over _80% on time releases_
+* Defined multiple tech projects (EPOD, QC) that led to increased business.
 
 #### Senior Engineering Manager - Feb 2019 - July,19
 * Managing the lifecycle of B2B platform of Freight

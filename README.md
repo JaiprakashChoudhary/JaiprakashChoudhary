@@ -120,6 +120,7 @@ _Not a Penny More, Not a Penny Less_ by Jeffrey Archer<br>
 
 **Virtual**<br>
 _Half Marathon_ <br>
+Training <br>
 Completed Times : 6 <br>
 Personal Best : 2:40:27 <br>
 
@@ -127,4 +128,4 @@ _10k_ <br>
 Personal Best : 1:11:27 <br>
 
 ---
-_Last updated at_ 7-July-2021
+_Last updated at_ 7-Aug-2021
