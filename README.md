@@ -72,6 +72,8 @@ _Leaders Eat Last_ by Simon Sinek<br>
 _The 80/20 Principle: The Secret to Achieving More with Less_ by Richard Koch<br>
 _The Culture Code: The Secrets of Highly Successful Groups_ by Daniel Coyle<br>
 _Organizational Behavior_ by Stephens P.Robbins, Timothy A.Judge, Neharika Vohra<br>
+_The Coaching Habit Say Less, Ask More & Change the way you lead forever_ by Michael Bungay Stanier <br>
+_The Dichotomy of Leadership_ by Jocko Willink and Leif Babin <br>
 
 **History**<br>
 _Sapiens_ by Yuval Noah Harari<br>
@@ -84,10 +86,13 @@ _Thinking Fast and Slow_ by Daniel Kahneman<br>
 _Influence : The Pshychology of Persuasion_ by Robert B. Cialdini<br>
 _Behave : The Biology of Humans at Our Best and Worst_ by Robert M. Sapolsky<br>
 _The Black Swan : The impact of the Highly Improbable_ by Nassim Nicholas Taleb<br>
+_The Biggest Bluff : How I Learned to Pay Attention, Master Myself, and Win_ by Maria Konnikova<br> 
+_The Biology of Belief_ by Bruce H. Lipton<br>
 
 **Health**<br>
 _How Not to Die_ by Michael Greger<br>
 _Why We Sleep_ by Matthew Walker<br>
+_Don't loose your mind, loose your weight_ by Rujuta Diwekar <br>
 
 **Poetry**<br>
 _Rashmirathi_ by Ramdhari Singh Dinkar<br>
@@ -106,6 +111,7 @@ _India's Most Fearless_ by Shiv Aroor<br>
 
 **Philosophy**<br>
 _Complete work of Swami Vivekananda_ by Swami Vivekananda<br>
+_Adiyogi: The Source of Yoga_ by Sadhguru<br>
 
 **Fiction**<br>
 _Animal Farm_ by George Orwell<br>
@@ -128,4 +134,4 @@ _10k_ <br>
 Personal Best : 1:11:27 <br>
 
 ---
-_Last updated at_ 7-Aug-2021
+_Last updated at_ 4-Sep-2021
