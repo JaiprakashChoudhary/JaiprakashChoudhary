@@ -47,7 +47,7 @@ Adoption of Agile methodology. -->
 [Delivery and Estimation](https://techiejai.medium.com/delivery-and-estimation-eeb704677dfc)<br>
 [Agile and Project Management](https://www.linkedin.com/pulse/agile-project-management-jaiprakash-choudhary/) <br>
 
-**Books in short**
+**Books in short**<br>
 [Running and The Body](https://techiejai.medium.com/running-and-the-body-7f5bc024a765)<br>
 [Belief and you](https://techiejai.medium.com/belief-and-you-819e39ba4f7a)<br>
 
