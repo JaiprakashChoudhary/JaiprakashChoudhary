@@ -126,9 +126,9 @@ _Not a Penny More, Not a Penny Less_ by Jeffrey Archer<br>
 [_Professional development: Improve yourself, always_](https://www.coursera.org/learn/professional-development-improve-yourself/home/welcome)<br>
 [_Strategic Management_](https://www.coursera.org/learn/strategic-management/home/welcome)<br>
 
-##Endurance<br>
+## Endurance<br>
 
-###Runs<br>
+### Runs<br>
 **Virtual**<br>
 _Half Marathon_ <br>
 Training <br>
@@ -138,9 +138,10 @@ Personal Best : 2:40:27 <br>
 _10k_ <br>
 Personal Best : 1:11:27 <br>
 
-###Cycling<br>
+### Cycling<br>
 **Virtual**<br>
 _100 km_<br>
 Completed Times : 1<br>
+
 ---
 _Last updated at_ 26-Oct-2021
