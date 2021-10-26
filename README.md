@@ -140,7 +140,7 @@ Personal Best : 1:11:27 <br>
 
 ### Cycling<br>
 **Virtual**<br>
-_100 km_<br>
+_Metric Century (100 km)_<br>
 Completed Times : 1<br>
 
 ---
