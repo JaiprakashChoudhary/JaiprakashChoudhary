@@ -38,7 +38,7 @@ Passionate to design and develop complex systems that _impact people's life._ Ha
 * Designed whatsapp communication as a _dynamic decision tree_
 * _Conceptualised E POD_ with 33% contactless delivery in May,20
 * Mentored team by taking sessions on _design patterns and code quality_
-* Innovated and designed  project for quality check _impacting bottom line by 0.5%_
+* Innovated and designed  project for box quality check _impacting bottom line by 0.5%_
 * Identified the issue of limited testing environments and solved via _kubernetes cluster_ 
 * Created a process to reduce _production errors by 98%_
 * Designed collection tracker with _transaction support_
@@ -47,7 +47,8 @@ Passionate to design and develop complex systems that _impact people's life._ Ha
 * Created a culture of timely releases with acheiving _85%_ of on time release
 * Re-architected to reduce _data import time by 97%_
 * Defined culture of delivery with over _80% on time releases_
-* Defined multiple tech projects (EPOD, QC) that led to increased business.
+* Defined multiple tech projects (EPOD, QC, multi-option CN tracking, collection tracker, localisation) that led to increased business
+* Defined a _fitness test based project development_ leading to 86% projects achieving the fitness function
 
 #### Senior Engineering Manager - Feb 2019 - July,19
 * Managing the lifecycle of B2B platform of Freight
