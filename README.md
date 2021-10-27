@@ -115,9 +115,9 @@ _India's Most Fearless_ by Shiv Aroor<br>
 
 **Philosophy**<br>
 _Complete work of Swami Vivekananda_ by Swami Vivekananda<br>
-_Adiyogi: The Source of Yoga_ by Sadhguru<br>
+_Adiyogi : The Source of Yoga_ by Sadhguru<br>
 _Man's Search for Meaning_ by Viktor Frankl<br>
-_Siddhartha:An Indian Tale_ by Hermann Hesse<br>
+_Siddhartha : An Indian Tale_ by Hermann Hesse<br>
 
 **Fiction**<br>
 _Animal Farm_ by George Orwell<br>
