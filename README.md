@@ -112,6 +112,7 @@ _Endure: Mind, Body and the Curiously Elastic Limits of Human Performance_ by Al
 **Generic Non Fiction**<br>
 _Poor Charlie's Almanac_ by Charles T. Munger<br>
 _India's Most Fearless_ by Shiv Aroor<br>
+_Tools of Titans_ by Ferris Timothy<br>
 
 **Philosophy**<br>
 _Complete work of Swami Vivekananda_ by Swami Vivekananda<br>
@@ -145,5 +146,7 @@ Personal Best : 1:11:27 <br>
 _Metric Century (100 km)_<br>
 Completed Times : 2<br>
 
+_Century Ride (100 miles)_<br>
+Completed Times : 1<br>
 ---
-_Last updated at_ 17-Oct-2021
+_Last updated at_ 08-Jan-2022

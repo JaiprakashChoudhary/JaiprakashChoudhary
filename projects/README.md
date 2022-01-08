@@ -1,6 +1,12 @@
 # Jaiprakash
 
 ## Projects
+### Relay
+* Defined microservices and event driven architecture for relay
+* Designed process of refactoring code for enabling functionalities
+* Debugged complex workflows for data streaming
+
+
 ### Reporting infrastructure
 * A pipeline to read data from multiple services
 * The data is dumped in raw format
