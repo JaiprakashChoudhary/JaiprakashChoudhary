@@ -105,6 +105,8 @@ _Rashmirathi_ by Ramdhari Singh Dinkar<br>
 _A breif history of time_ by Hawking Stephen<br>
 _The Selfish Gene_ by Richard Dawkins<br>
 _Algorithms to Live By_ by Brain Christian<br>
+_A Short History of Nearly Everything_ by Bill Bryson<br>
+_The Fabric of the Cosmos: Space, Time, and the Texture of Reality_ by Brian Greene<br>
 
 **Running**<br>
 _Endure: Mind, Body and the Curiously Elastic Limits of Human Performance_ by Alex Hutchinson<br>
@@ -135,8 +137,8 @@ _Not a Penny More, Not a Penny Less_ by Jeffrey Archer<br>
 **Virtual**<br>
 _Half Marathon_ <br>
 Training <br>
-Completed Times : 7 <br>
-Personal Best : 2:40:27 <br>
+Completed Times : 9 <br>
+Personal Best : 2:31:33 <br>
 
 _10k_ <br>
 Personal Best : 1:11:27 <br>
@@ -144,9 +146,9 @@ Personal Best : 1:11:27 <br>
 ### Cycling<br>
 **Virtual**<br>
 _Metric Century (100 km)_<br>
-Completed Times : 2<br>
+Completed Times : 6<br>
 
 _Century Ride (100 miles)_<br>
 Completed Times : 1<br>
 ---
-_Last updated at_ 08-Jan-2022
+_Last updated at_ 08-Mar-2022
