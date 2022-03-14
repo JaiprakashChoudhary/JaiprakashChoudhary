@@ -141,7 +141,7 @@ Completed Times : 9 <br>
 Personal Best : 2:31:33 <br>
 
 Timed Event <br>
-Jaipur Marathon : 2022 : 2:25:23 <br>
+Jaipur Half Marathon : 13/03/22 : 2:25:23 <br>
 
 _10k_ <br>
 Personal Best : 1:11:27 <br>
