@@ -140,15 +140,15 @@ Training <br>
 Completed Times : 9 <br>
 Personal Best : 2:31:33 <br>
 
+Timed Event <br>
+Jaipur Marathon : 2022 : 2:25:23 <br>
+
 _10k_ <br>
 Personal Best : 1:11:27 <br>
 
 ### Cycling<br>
 **Virtual**<br>
-_Metric Century (100 km)_<br>
-Completed Times : 6<br>
-
 _Century Ride (100 miles)_<br>
 Completed Times : 1<br>
 ---
-_Last updated at_ 08-Mar-2022
+_Last updated at_ 14-Mar-2022
