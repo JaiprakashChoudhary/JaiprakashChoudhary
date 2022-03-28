@@ -13,7 +13,11 @@ Passionate to design and develop complex systems that _impact people's life._ Ha
 ## Experience
 ### Rivigo — Dec 2016 - Present
 #### Head of Engineering Aug,20-Present
-* Designed and developed flagship _Relay As A Service product_
+* Designed and developed technical solutions on flagship product _Relay As A Service product_
+* Defined product execution charter, _building team for projects_ and creating solutions
+* Delivered RAAS within aspirational timelines, with _500 trucks_ running on new platform
+* Designed vehicle allocation algorithm with _strategy, chain of responsibility_ design pattern
+* Updated _vehicle tracking design_ and _reports_ to acheive _98% accuracy_ of vehicle data at point of interests
 * Leading the technology vertical with a team of _70+ engineers_
 * Leading engineering, product, IT and support for all Rivigo products	
 * Innovated and designed reporting infrastructure with a _data lake_ for scheduled and on demand reports with _10 reports_ onboarded 
