@@ -134,21 +134,13 @@ _Not a Penny More, Not a Penny Less_ by Jeffrey Archer<br>
 ## Endurance<br>
 
 ### Runs<br>
-**Virtual**<br>
-_Half Marathon_ <br>
-Training <br>
-Completed Times : 9 <br>
-Personal Best : 2:31:33 <br>
-
-Timed Event <br>
+**Half Marathon**<br>
 Jaipur Half Marathon : 13/03/22 : 2:25:23 <br>
-
-_10k_ <br>
-Personal Best : 1:11:27 <br>
+Gurgaon Kanyathon : 03/04/22 : 2:20:55 <br>
 
 ### Cycling<br>
 **Virtual**<br>
 _Century Ride (100 miles)_<br>
 Completed Times : 1<br>
 ---
-_Last updated at_ 14-Mar-2022
+_Last updated at_ 04-Apr-2022
