@@ -1,7 +1,7 @@
 # Jaiprakash
 
 ## About
-Passionate to design and develop complex systems that _impact people's life._ Have _designed scalable systems_ from scratch and have _upgraded, managed and extended existing systems_. Lead teams to create solutions that have with-held test of time. A avid reader, long distance runner and a firm believer in _multi-disciplinary learning._
+Passionate to design and develop complex systems that _impact people's life._ Have _designed scalable systems_ from scratch and have _upgraded, managed and extended existing systems_. Lead teams to create solutions that have with-held test of time. A avid reader, endurance athlete and a firm believer in _multi-disciplinary learning._
 
 ## Philosophy
 * People are not born great, passion and hard work make them
