@@ -51,6 +51,9 @@ Adoption of Agile methodology. -->
 [Running and The Body](https://techiejai.medium.com/running-and-the-body-7f5bc024a765)<br>
 [Belief and you](https://techiejai.medium.com/belief-and-you-819e39ba4f7a)<br>
 
+**Health**<br>
+[Start your health journey](https://techiejai.medium.com/how-to-begin-the-fitness-journey-2e40a5908a81) <br>
+
 
 **Psychology**<br>
 [Willpower vs Strategy: My story from couch potato to half marathon](https://techiejai.medium.com/willpower-vs-strategy-my-story-from-couch-potato-to-half-marathon-what-it-means-in-leadership-7d2d1a037398)<br>
@@ -61,6 +64,7 @@ Adoption of Agile methodology. -->
 
 **Generic**<br>
 [Book recommendation from 2020](https://techiejai.medium.com/recommendation-books-read-in-2020-d19b78a0da88)<br>
+[Book recommendation from 2021](https://techiejai.medium.com/recommendation-books-read-in-2021-b606c03777e4) <br>
 [Staying at home and bachelors](https://www.linkedin.com/pulse/staying-home-bachelors-jaiprakash-choudhary/) <br>
 [Observations of the Mind](https://www.linkedin.com/pulse/observations-mind-jaiprakash-choudhary/) <br>
 [Future of remote work](https://techiejai.medium.com/future-of-remote-work-710d5f27d1ff) <br>
@@ -143,4 +147,4 @@ Gurgaon Kanyathon : 03/04/22 : 2:20:55 <br>
 _Century Ride (100 miles)_<br>
 Completed Times : 1<br>
 ---
-_Last updated at_ 04-Apr-2022
+_Last updated at_ 21-Apr-2022
