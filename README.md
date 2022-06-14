@@ -82,6 +82,7 @@ _The Culture Code: The Secrets of Highly Successful Groups_ by Daniel Coyle<br>
 _Organizational Behavior_ by Stephens P.Robbins, Timothy A.Judge, Neharika Vohra<br>
 _The Coaching Habit Say Less, Ask More & Change the way you lead forever_ by Michael Bungay Stanier <br>
 _The Dichotomy of Leadership_ by Jocko Willink and Leif Babin <br>
+_HBR's 10 Must Reads on Managing People_ by Harvard Business School Press <br>
 
 **History**<br>
 _Sapiens_ by Yuval Noah Harari<br>
@@ -141,10 +142,12 @@ _Not a Penny More, Not a Penny Less_ by Jeffrey Archer<br>
 **Half Marathon**<br>
 Jaipur Half Marathon : 13/03/22 : 2:25:23 <br>
 Gurgaon Kanyathon : 03/04/22 : 2:20:55 <br>
+New Gurugram Half Marathon : 24/04/22 : 2:24:06 <br>
+Kicksal Gurugram Marathon : 12/06/22 : 2:55:17 <br>
 
 ### Cycling<br>
 **Virtual**<br>
 _Century Ride (100 miles)_<br>
 Completed Times : 1<br>
 ---
-_Last updated at_ 21-Apr-2022
+_Last updated at_ 14-June-2022

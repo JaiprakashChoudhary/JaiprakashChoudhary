@@ -14,6 +14,8 @@ Passionate to design and develop complex systems that _impact people's life._ Ha
 ### Rivigo — Dec 2016 - Present
 #### Head of Engineering Aug,20-Present
 * Designed and developed technical solutions on flagship product _Relay As A Service product_
+* Leading refactoring and designing solution for legacy product leading to _30% improvement_ in execution
+* Organised Truckathon leading to _tech charter execution_ for 1k trucks
 * Defined product execution charter, _building team for projects_ and creating solutions
 * Delivered RAAS within aspirational timelines, with _500 trucks_ running on new platform
 * Designed vehicle allocation algorithm with _strategy, chain of responsibility_ design pattern
@@ -133,4 +135,4 @@ Passionate to design and develop complex systems that _impact people's life._ Ha
 * Received Aditya Birla Scholarship, awarded to 11 students over India.
 
 ---
-_Last updated at_ 28-Mar-2022
+_Last updated at_ 14-June-2022
