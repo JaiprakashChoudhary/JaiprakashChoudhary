@@ -97,6 +97,7 @@ _Behave : The Biology of Humans at Our Best and Worst_ by Robert M. Sapolsky<br>
 _The Black Swan : The impact of the Highly Improbable_ by Nassim Nicholas Taleb<br>
 _The Biggest Bluff : How I Learned to Pay Attention, Master Myself, and Win_ by Maria Konnikova<br> 
 _The Biology of Belief_ by Bruce H. Lipton<br>
+_The Red Queen: Sex and the Evolution of Human Nature_ Matt Ridley
 
 **Health**<br>
 _How Not to Die_ by Michael Greger<br>
@@ -115,6 +116,7 @@ _The Fabric of the Cosmos: Space, Time, and the Texture of Reality_ by Brian Gre
 
 **Running**<br>
 _Endure: Mind, Body and the Curiously Elastic Limits of Human Performance_ by Alex Hutchinson<br>
+_Running & Being: The Total Experience_ by George Sheehan
 
 **Generic Non Fiction**<br>
 _Poor Charlie's Almanac_ by Charles T. Munger<br>
@@ -126,6 +128,8 @@ _Complete work of Swami Vivekananda_ by Swami Vivekananda<br>
 _Adiyogi : The Source of Yoga_ by Sadhguru<br>
 _Man's Search for Meaning_ by Viktor Frankl<br>
 _Siddhartha : An Indian Tale_ by Hermann Hesse<br>
+_Four Thousand Weeks: Time Management for Mortals_ by Oliver Burkeman
+
 
 **Fiction**<br>
 _Animal Farm_ by George Orwell<br>
@@ -150,4 +154,4 @@ Kicksal Gurugram Marathon : 12/06/22 : 2:55:17 <br>
 _Century Ride (100 miles)_<br>
 Completed Times : 1<br>
 ---
-_Last updated at_ 14-June-2022
+_Last updated at_ 13-September-2022
