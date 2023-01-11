@@ -9,7 +9,7 @@ _A passionate techie_ <br>
 
 A Computer Science graduate from IIT Delhi, I am passionate about leading teams in designing and developing technical systems that impact people.
 
-A _avid reader_, _endurance athlete_ and a firm believer in _multi-disciplinary learning_.
+An _avid reader_, _endurance athlete_ and a firm believer of _multi-disciplinary learning_.
 
 ## My Philosophy
 
