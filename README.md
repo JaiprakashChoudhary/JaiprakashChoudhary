@@ -63,8 +63,9 @@ Adoption of Agile methodology. -->
 [Glimpse of the problem being solved at Rivigo](https://www.linkedin.com/pulse/glimpse-problems-being-solved-rivigo-jaiprakash-choudhary/)<br>
 
 **Generic**<br>
-[Book recommendation from 2020](https://techiejai.medium.com/recommendation-books-read-in-2020-d19b78a0da88)<br>
+[Book recommendation from 2022](https://techiejai.medium.com/recommendation-books-read-in-2022-8c47b84c9ac1)<br>
 [Book recommendation from 2021](https://techiejai.medium.com/recommendation-books-read-in-2021-b606c03777e4) <br>
+[Book recommendation from 2020](https://techiejai.medium.com/recommendation-books-read-in-2020-d19b78a0da88)<br>
 [Staying at home and bachelors](https://www.linkedin.com/pulse/staying-home-bachelors-jaiprakash-choudhary/) <br>
 [Observations of the Mind](https://www.linkedin.com/pulse/observations-mind-jaiprakash-choudhary/) <br>
 [Future of remote work](https://techiejai.medium.com/future-of-remote-work-710d5f27d1ff) <br>
@@ -89,6 +90,7 @@ _Sapiens_ by Yuval Noah Harari<br>
 _Back Stage_ by Montek Singh Ahluwalia<br>
 _Collapse : How societies Choose to Fail or Survive_ by Jared Diamond<br>
 _India After Gandhi: The History of the World's largest Democracy_ by Ramachandra Guha<br>
+_Hinduism_ by Ashok Mishra<br>
 
 **Pshychology**<br>
 _Thinking Fast and Slow_ by Daniel Kahneman<br>
@@ -98,6 +100,7 @@ _The Black Swan : The impact of the Highly Improbable_ by Nassim Nicholas Taleb<
 _The Biggest Bluff : How I Learned to Pay Attention, Master Myself, and Win_ by Maria Konnikova<br> 
 _The Biology of Belief_ by Bruce H. Lipton<br>
 _The Red Queen: Sex and the Evolution of Human Nature_ Matt Ridley
+_The Rational Male_ by Rollo Tomassi<br>
 
 **Health**<br>
 _How Not to Die_ by Michael Greger<br>
@@ -116,7 +119,7 @@ _The Fabric of the Cosmos: Space, Time, and the Texture of Reality_ by Brian Gre
 
 **Running**<br>
 _Endure: Mind, Body and the Curiously Elastic Limits of Human Performance_ by Alex Hutchinson<br>
-_Running & Being: The Total Experience_ by George Sheehan
+_Running & Being: The Total Experience_ by George Sheehan<br>
 
 **Generic Non Fiction**<br>
 _Poor Charlie's Almanac_ by Charles T. Munger<br>
@@ -130,10 +133,15 @@ _Man's Search for Meaning_ by Viktor Frankl<br>
 _Siddhartha : An Indian Tale_ by Hermann Hesse<br>
 _Four Thousand Weeks: Time Management for Mortals_ by Oliver Burkeman
 
+**Biography/Autobiography**<br>
+_Finding Ultra_ by Rich Roll<br>
+_Can't Hurt Me_ by David Goggins<br>
+
 
 **Fiction**<br>
 _Animal Farm_ by George Orwell<br>
 _Not a Penny More, Not a Penny Less_ by Jeffrey Archer<br>
+_Foundation_ (series) by Isaac Asimov<br>
 
 
 ## My Recommended Courses
@@ -144,14 +152,10 @@ _Not a Penny More, Not a Penny Less_ by Jeffrey Archer<br>
 
 ### Runs<br>
 **Half Marathon**<br>
-Jaipur Half Marathon : 13/03/22 : 2:25:23 <br>
-Gurgaon Kanyathon : 03/04/22 : 2:20:55 <br>
-New Gurugram Half Marathon : 24/04/22 : 2:24:06 <br>
-Kicksal Gurugram Marathon : 12/06/22 : 2:55:17 <br>
+Kicksal Gurugram Marathon : 08/02/23 : 2:02:11 <br>
 
 ### Cycling<br>
-**Virtual**<br>
-_Century Ride (100 miles)_<br>
-Completed Times : 1<br>
+**BRM**<br>
+BRM 200 : 06/11/22 : 11:09:00 <br>
 ---
-_Last updated at_ 13-September-2022
+_Last updated at_ 11-January-2023
