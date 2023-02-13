@@ -11,7 +11,14 @@ Passionate to design and develop complex systems that _impact people's life._ Ha
 * Every problem has a solution
 
 ## Experience
-### Rivigo — Dec 2016 - Present
+### Rivigo by Mahindra Logistics Limited (MLL)  - Nov 2022 - Present
+* Succesfully completed _tech systems audit_ for business transfer
+* Managed transition of the tech systems with _zero defects during transition_
+* Designing _CI/CD pipelines_ across MLL tech ecosystem
+* Defining processes for _cross teams collaboration_
+* Designing tech solutions for _WMS and Mobility_
+
+### Rivigo — Dec 2016 - Oct 22
 #### Head of Engineering Aug,20-Present
 * Designed and developed technical solutions on flagship product _Relay As A Service product_
 * Leading refactoring and designing solution for legacy product leading to _30% improvement_ in execution
@@ -135,4 +142,4 @@ Passionate to design and develop complex systems that _impact people's life._ Ha
 * Received Aditya Birla Scholarship, awarded to 11 students over India.
 
 ---
-_Last updated at_ 14-June-2022
+_Last updated at_ 13-Feb-2023
