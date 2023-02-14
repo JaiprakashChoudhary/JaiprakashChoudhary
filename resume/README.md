@@ -12,6 +12,7 @@ Passionate to design and develop complex systems that _impact people's life._ Ha
 
 ## Experience
 ### Rivigo by Mahindra Logistics Limited (MLL)  - Nov 2022 - Present
+#### Head of Technology Nov,22-Present
 * Succesfully completed _tech systems audit_ for business transfer
 * Managed transition of the tech systems with _zero defects during transition_
 * Designing _CI/CD pipelines_ across MLL tech ecosystem
