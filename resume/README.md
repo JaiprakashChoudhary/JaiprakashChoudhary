@@ -19,7 +19,7 @@ Passionate to design and develop complex systems that _impact people's life._ Ha
 * Designing tech solutions for _WMS and Mobility_
 
 ### Rivigo — Dec 2016 - Oct 22
-#### Head of Engineering Aug,20-Present
+#### Head of Engineering Aug,20-Oct,22
 * Designed and developed technical solutions on flagship product _Relay As A Service product_
 * Leading refactoring and designing solution for legacy product leading to _30% improvement_ in execution
 * Organised Truckathon leading to _tech charter execution_ for 1k trucks
