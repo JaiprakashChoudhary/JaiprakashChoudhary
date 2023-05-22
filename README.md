@@ -3,7 +3,7 @@
 _A passionate techie_ <br>
 ![](https://user-images.githubusercontent.com/19921950/113431605-a2a82380-93f9-11eb-83cf-127d8f1cbe6c.jpg)
 
- [LinkedIn](http://linkedin.techiejai.com) / [GitHub](http://github.techiejai.com) / [Twitter](http://twitter.techiejai.com) / [Strava](http://strava.techiejai.com) / [GoodReads](http://goodreads.techiejai.com/) / [Instagram](https://insta.techiejai.com) /[Facebook](http://facebook.techiejai.com) /[Email](mailto:techiejaiprakash@gmail.com) / [Resume](http://resume.techiejai.com)
+ [LinkedIn](http://linkedin.techiejai.com) / [GitHub](http://github.techiejai.com) / [Twitter](http://twitter.techiejai.com) / [Strava](http://strava.techiejai.com) / [GoodReads](http://goodreads.techiejai.com/) / [Instagram](http://insta.techiejai.com) /[Facebook](http://facebook.techiejai.com) /[Email](mailto:techiejaiprakash@gmail.com) / [Resume](http://resume.techiejai.com)
 
 ## About Me
 
@@ -72,50 +72,49 @@ Adoption of Agile methodology. -->
 
 ## My Recommended Reads
 **Tech**<br>
-_Code Complete_ by Steve McConnell<br>
-_Head First Design Patterns_ by Eric Freeman<br>
 _Distributed Systems: Principles and Paradigms_ by Tanenbum & Van Steen<br>
+_Head First Design Patterns_ by Eric Freeman<br>
+_Code Complete_ by Steve McConnell<br>
 
 **Leadership**<br>
-_Leaders Eat Last_ by Simon Sinek<br>
 _The 80/20 Principle: The Secret to Achieving More with Less_ by Richard Koch<br>
-_The Culture Code: The Secrets of Highly Successful Groups_ by Daniel Coyle<br>
 _Organizational Behavior_ by Stephens P.Robbins, Timothy A.Judge, Neharika Vohra<br>
-_The Coaching Habit Say Less, Ask More & Change the way you lead forever_ by Michael Bungay Stanier <br>
-_The Dichotomy of Leadership_ by Jocko Willink and Leif Babin <br>
 _HBR's 10 Must Reads on Managing People_ by Harvard Business School Press <br>
+_The Dichotomy of Leadership_ by Jocko Willink and Leif Babin <br>
+_The Coaching Habit Say Less, Ask More & Change the way you lead forever_ by Michael Bungay Stanier <br>
+_The Culture Code: The Secrets of Highly Successful Groups_ by Daniel Coyle<br>
+_Leaders Eat Last_ by Simon Sinek<br>
 
 **History**<br>
 _Sapiens_ by Yuval Noah Harari<br>
-_Back Stage_ by Montek Singh Ahluwalia<br>
 _Collapse : How societies Choose to Fail or Survive_ by Jared Diamond<br>
-_India After Gandhi: The History of the World's largest Democracy_ by Ramachandra Guha<br>
 _Hinduism_ by Ashok Mishra<br>
+_Back Stage_ by Montek Singh Ahluwalia<br>
+_India After Gandhi: The History of the World's largest Democracy_ by Ramachandra Guha<br>
 
 **Pshychology**<br>
 _Thinking Fast and Slow_ by Daniel Kahneman<br>
-_Influence : The Pshychology of Persuasion_ by Robert B. Cialdini<br>
-_Behave : The Biology of Humans at Our Best and Worst_ by Robert M. Sapolsky<br>
 _The Black Swan : The impact of the Highly Improbable_ by Nassim Nicholas Taleb<br>
 _The Biggest Bluff : How I Learned to Pay Attention, Master Myself, and Win_ by Maria Konnikova<br> 
+_Behave : The Biology of Humans at Our Best and Worst_ by Robert M. Sapolsky<br>
 _The Biology of Belief_ by Bruce H. Lipton<br>
-_The Red Queen: Sex and the Evolution of Human Nature_ Matt Ridley
+_Influence : The Pshychology of Persuasion_ by Robert B. Cialdini<br>
 _The Rational Male_ by Rollo Tomassi<br>
 
 **Health**<br>
-_How Not to Die_ by Michael Greger<br>
 _Why We Sleep_ by Matthew Walker<br>
+_How Not to Die_ by Michael Greger<br>
 _Don't loose your mind, loose your weight_ by Rujuta Diwekar <br>
 
 **Poetry**<br>
 _Rashmirathi_ by Ramdhari Singh Dinkar<br>
 
 **Science**<br>
-_A breif history of time_ by Hawking Stephen<br>
-_The Selfish Gene_ by Richard Dawkins<br>
-_Algorithms to Live By_ by Brain Christian<br>
 _A Short History of Nearly Everything_ by Bill Bryson<br>
+_A breif history of time_ by Hawking Stephen<br>
 _The Fabric of the Cosmos: Space, Time, and the Texture of Reality_ by Brian Greene<br>
+_Algorithms to Live By_ by Brain Christian<br>
+_How the World Really Works: A Scientist's Guide to Our Past, Present and Future_ by Vaclav Smil<br>
 
 **Running**<br>
 _Endure: Mind, Body and the Curiously Elastic Limits of Human Performance_ by Alex Hutchinson<br>
@@ -123,20 +122,25 @@ _Running & Being: The Total Experience_ by George Sheehan<br>
 
 **Generic Non Fiction**<br>
 _Poor Charlie's Almanac_ by Charles T. Munger<br>
+_The Almanack of Naval Ravikant: A Guide to Wealth and Happiness_ by Eric Jorgenson<br>
 _India's Most Fearless_ by Shiv Aroor<br>
 _Tools of Titans_ by Ferris Timothy<br>
 
 **Philosophy**<br>
 _Complete work of Swami Vivekananda_ by Swami Vivekananda<br>
-_Adiyogi : The Source of Yoga_ by Sadhguru<br>
 _Man's Search for Meaning_ by Viktor Frankl<br>
-_Siddhartha : An Indian Tale_ by Hermann Hesse<br>
 _Four Thousand Weeks: Time Management for Mortals_ by Oliver Burkeman
+_Siddhartha : An Indian Tale_ by Hermann Hesse<br>
+_Adiyogi : The Source of Yoga_ by Sadhguru<br>
 
 **Biography/Autobiography**<br>
 _Finding Ultra_ by Rich Roll<br>
 _Can't Hurt Me_ by David Goggins<br>
 
+**Evolution**<br>
+_The Selfish Gene_ by Richard Dawkins<br>
+_The Red Queen: Sex and the Evolution of Human Nature_ Matt Ridley
+_The Elephant in the Brain: Hidden Motives in Everyday Life_ by Kevin Simler
 
 **Fiction**<br>
 _Animal Farm_ by George Orwell<br>
@@ -152,10 +156,10 @@ _Foundation_ (series) by Isaac Asimov<br>
 
 ### Runs<br>
 **Half Marathon**<br>
-Kicksal Gurugram Marathon : 08/02/23 : 2:02:11 <br>
+Tuffman Gurugram Half Marathon : 26/03/23 : 1:58:55 <br>
 
 ### Cycling<br>
 **BRM**<br>
 BRM 200 : 06/11/22 : 11:09:00 <br>
 ---
-_Last updated at_ 11-January-2023
+_Last updated at_ 22-May-2023
