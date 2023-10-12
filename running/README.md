@@ -8,7 +8,6 @@
 
 **The Beginning**
 [Couch to 5k](<todo>)<br>
-[]
 
 **Getting Serious**
 [Jaipur Half Marathon](<todo>)<br>

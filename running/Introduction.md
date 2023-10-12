@@ -12,4 +12,4 @@ This is a story of transformation, of seizing control, and of the relentless pur
 
 <hr/>
 
-[Back](../)  -:[Next](Background)
+[Back](./)              [Next](Background)
