@@ -1,8 +1,10 @@
-# Serendipity UltraRunner: Discovering My Inner Runner by Chance
+# UltraRunner: Discovering My Inner Runner by Chance
 
-## Introduction
+## [Introduction](Introduction)
 
-## The first run
+## [Background](Background)
+
+## [The first run](TheFirstRun)
 
 **The Beginning**
 [Couch to 5k](<todo>)<br>
