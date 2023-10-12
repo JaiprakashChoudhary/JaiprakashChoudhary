@@ -1,6 +1,6 @@
 # Introduction
 
-Every runner has a story. In each story hidden is the meaning of life.
+Every runner has a story.
 
 It is year 2021, and the world is still reeling from the harrowing grasp of the Covid-19 pandemic. Having witnessed the relentless specter of death that swept across the globe, many of us were forced to confront our own mortality, pondering the path that lay ahead. This introspection kindled an insatiable quest for meaning and purpose in life, a journey that continued to unfold.
 
