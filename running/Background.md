@@ -12,8 +12,6 @@ I did eventually achieve my goal and entered the hallowed halls of IIT Delhi. Bu
 
 Sixteen long years would pass before I'd allow myself to seriously entertain the thought of playing again. But when that moment arrived, I embraced it with open arms. The game of life was about to reveal its next chapter, and this time, I was ready to step up to the crease, ready to play like never before.
 
-***
----
 <hr/>
 
-[Back](README)  -:[Next](TheFirstRun)
+[Back](../)  -:[Next](TheFirstRun)

@@ -10,9 +10,6 @@ With newfound clarity, an extraordinary resolve emerged: to script the closing l
 
 This is a story of transformation, of seizing control, and of the relentless pursuit of the elusive meaning of life. It is a journey which transcends the boundaries of self-discovery and grapples with the universal truths of existence. It is a tale of self-discovery, resilience, and the pursuit of a life lived on one's own terms, a journey that would come to reveal not only the profound depths of human potential but also the extraordinary capacity for personal growth and renewal. 
 
-
-***
----
 <hr/>
 
-[Back](README)  -:[Next](Background)
+[Back](../)  -:[Next](Background)
