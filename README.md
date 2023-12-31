@@ -119,6 +119,7 @@ _How the World Really Works: A Scientist's Guide to Our Past, Present and Future
 **Running**<br>
 _Endure: Mind, Body and the Curiously Elastic Limits of Human Performance_ by Alex Hutchinson<br>
 _Running & Being: The Total Experience_ by George Sheehan<br>
+_26 Marathons: What I Learned About Faith, Identity, Running, and Life from My Marathon Career_ by Meb Keflezighi<br>
 
 **Generic Non Fiction**<br>
 _Poor Charlie's Almanac_ by Charles T. Munger<br>
@@ -139,14 +140,20 @@ _Can't Hurt Me_ by David Goggins<br>
 
 **Evolution**<br>
 _The Selfish Gene_ by Richard Dawkins<br>
-_The Red Queen: Sex and the Evolution of Human Nature_ Matt Ridley
-_The Elephant in the Brain: Hidden Motives in Everyday Life_ by Kevin Simler
+_The Red Queen: Sex and the Evolution of Human Nature_ Matt Ridley<br>
+_The Elephant in the Brain: Hidden Motives in Everyday Life_ by Kevin Simler<br>
+_Civilized to Death: The Price of Progress_ by Christopher Ryan<br>
 
 **Fiction**<br>
 _Animal Farm_ by George Orwell<br>
 _Not a Penny More, Not a Penny Less_ by Jeffrey Archer<br>
 _Foundation_ (series) by Isaac Asimov<br>
 
+**Personal Growth**<br>
+_Mindset: The New Psychology of Success_ by Carol S. Dweck<br>
+
+**Fun**<br>
+_If the Universe is Teeming with Aliens...Where is Everybody?_ by Stephen Webb
 
 ## My Recommended Courses
 [_Professional development: Improve yourself, always_](https://www.coursera.org/learn/professional-development-improve-yourself/home/welcome)<br>
@@ -156,10 +163,23 @@ _Foundation_ (series) by Isaac Asimov<br>
 
 ### Runs<br>
 **Half Marathon**<br>
-Tuffman Gurugram Half Marathon : 26/03/23 : 1:58:55 <br>
+New Gurugram Half Marathon 2023 : 12/10/23 : 1:56:17 <br>
+
+**Marathon**<br>
+AU Jaipur Marathon 2023 : 05/02/23 : 04:23:17 <br>
+
+**All Time**<br>
+Distance : 5,020.0 km <br>
 
 ### Cycling<br>
 **BRM**<br>
 BRM 200 : 06/11/22 : 11:09:00 <br>
+
+**All Time**<br>
+Distance : 12,833.9 km <br>
+
+### Swimming<br>
+**All Time**<br>
+Distance : 131.5 km <br>
 ---
-_Last updated at_ 22-May-2023
+_Last updated at_ 31-Dec-2023
