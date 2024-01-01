@@ -63,6 +63,7 @@ Adoption of Agile methodology. -->
 [Glimpse of the problem being solved at Rivigo](https://www.linkedin.com/pulse/glimpse-problems-being-solved-rivigo-jaiprakash-choudhary/)<br>
 
 **Generic**<br>
+[Book recommendation from 2023](https://techiejai.medium.com/recommendation-books-read-in-2023-5d5dffb94903)<br>
 [Book recommendation from 2022](https://techiejai.medium.com/recommendation-books-read-in-2022-8c47b84c9ac1)<br>
 [Book recommendation from 2021](https://techiejai.medium.com/recommendation-books-read-in-2021-b606c03777e4) <br>
 [Book recommendation from 2020](https://techiejai.medium.com/recommendation-books-read-in-2020-d19b78a0da88)<br>
