@@ -101,6 +101,8 @@ _Behave : The Biology of Humans at Our Best and Worst_ by Robert M. Sapolsky<br>
 _The Biology of Belief_ by Bruce H. Lipton<br>
 _Influence : The Pshychology of Persuasion_ by Robert B. Cialdini<br>
 _The Rational Male_ by Rollo Tomassi<br>
+_Contagious: How to Build Word of Mouth in the Digital Age_ by Jonah Berger<br>
+
 
 **Health**<br>
 _Why We Sleep_ by Matthew Walker<br>
@@ -144,6 +146,9 @@ _The Selfish Gene_ by Richard Dawkins<br>
 _The Red Queen: Sex and the Evolution of Human Nature_ Matt Ridley<br>
 _The Elephant in the Brain: Hidden Motives in Everyday Life_ by Kevin Simler<br>
 _Civilized to Death: The Price of Progress_ by Christopher Ryan<br>
+_The Shortest History of Sex_ by David Baker<br>
+_The Third Chimpanzee: The Evolution and Future of the Human Animal_ by Jared Diamond<br>
+_Sex, Time, and Power: How Women's Sexuality Shaped Human Evolution_ by Leonard Shlain<br>
 
 **Fiction**<br>
 _Animal Farm_ by George Orwell<br>
@@ -164,10 +169,10 @@ _If the Universe is Teeming with Aliens...Where is Everybody?_ by Stephen Webb
 
 ### Runs<br>
 **Half Marathon**<br>
-New Gurugram Half Marathon 2023 : 12/10/23 : 1:56:17 <br>
+Tuffman Gurugram Half Marathon 2024 : 07/04/24 : 1:55:57 <br>
 
 **Marathon**<br>
-AU Jaipur Marathon 2023 : 05/02/23 : 04:23:17 <br>
+New Delhi Marathon 2024 : 25/02/24 : 04:21:04 <br>
 
 **All Time**<br>
 Distance : 5,020.0 km <br>
@@ -184,4 +189,4 @@ Distance : 12,833.9 km <br>
 Distance : 131.5 km <br>
 
 ---
-_Last updated at_ 31-Dec-2023
+_Last updated at_ 27-May-2024
