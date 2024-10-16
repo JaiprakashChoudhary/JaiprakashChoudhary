@@ -92,17 +92,16 @@ _Collapse : How societies Choose to Fail or Survive_ by Jared Diamond<br>
 _Hinduism_ by Ashok Mishra<br>
 _Back Stage_ by Montek Singh Ahluwalia<br>
 _India After Gandhi: The History of the World's largest Democracy_ by Ramachandra Guha<br>
+_The Lessons of History_ by Will Durant, Ariel Durant<br>
 
 **Pshychology**<br>
 _Thinking Fast and Slow_ by Daniel Kahneman<br>
 _The Black Swan : The impact of the Highly Improbable_ by Nassim Nicholas Taleb<br>
 _The Biggest Bluff : How I Learned to Pay Attention, Master Myself, and Win_ by Maria Konnikova<br> 
-_Behave : The Biology of Humans at Our Best and Worst_ by Robert M. Sapolsky<br>
 _The Biology of Belief_ by Bruce H. Lipton<br>
 _Influence : The Pshychology of Persuasion_ by Robert B. Cialdini<br>
 _The Rational Male_ by Rollo Tomassi<br>
 _Contagious: How to Build Word of Mouth in the Digital Age_ by Jonah Berger<br>
-
 
 **Health**<br>
 _Why We Sleep_ by Matthew Walker<br>
@@ -112,12 +111,17 @@ _Don't loose your mind, loose your weight_ by Rujuta Diwekar <br>
 **Poetry**<br>
 _Rashmirathi_ by Ramdhari Singh Dinkar<br>
 
-**Science**<br>
-_A Short History of Nearly Everything_ by Bill Bryson<br>
+**Physics**<br>
+_Something Deeply Hidden: Quantum Worlds and the Emergence of Spacetime_ by Sean Carroll<br>
 _A breif history of time_ by Hawking Stephen<br>
 _The Fabric of the Cosmos: Space, Time, and the Texture of Reality_ by Brian Greene<br>
+
+**Science**<br>
+_A Short History of Nearly Everything_ by Bill Bryson<br>
 _Algorithms to Live By_ by Brain Christian<br>
+_Behave : The Biology of Humans at Our Best and Worst_ by Robert M. Sapolsky<br>
 _How the World Really Works: A Scientist's Guide to Our Past, Present and Future_ by Vaclav Smil<br>
+_The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma_ by Bessel van der Kolk<br>
 
 **Running**<br>
 _Endure: Mind, Body and the Curiously Elastic Limits of Human Performance_ by Alex Hutchinson<br>
@@ -189,4 +193,4 @@ Distance : 12,833.9 km <br>
 Distance : 131.5 km <br>
 
 ---
-_Last updated at_ 27-May-2024
+_Last updated at_ 16-Oct-2024
